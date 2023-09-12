@@ -15,7 +15,6 @@ let state;          // {its datatype is UNDEFINED}
     // undefined => value not assigned  {its datatype is UNDEFINED}
     // symbol => unique
 
-
 // Object Data type
 
 console.log(typeof null);       // {its datatype is OBJECT}
